@@ -1,5 +1,6 @@
 # DeepLearningLab
 This repo contains all the experiment codes as instructed in the Deep Learning Course
+
 Experiment 1:
 KEY LEARNINGS:
 1. TENSOR CREATION: Understanding multi-dimensional data structures
